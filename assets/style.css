@@ -1,6 +1,6 @@
 #nav-bar{
-    background-color: rgb(3, 121, 111);
-    background: linear-gradient(#096f79,  #0bc7a1ed);
+    background-color: rgb(32, 221, 205);
+    background: linear-gradient(#2be631,  #0bc7a1ed);
     height: 75px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .card{
-    background: linear-gradient(#096f79,  #0bc7a1ed);
+    background: linear-gradient(#2eda3f,  #bae12aed);
     margin-bottom: 20px;
     font-size: 20px;
 }
