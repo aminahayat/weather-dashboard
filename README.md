@@ -1,6 +1,7 @@
 # weather-dashboard
 
 Deployed URL - https://aminahayat.github.io/weather-dashboard/
+https://github.com/aminahayat/weather-dashboard
 
 Overview:
 
