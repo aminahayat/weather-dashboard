@@ -1,47 +1,20 @@
-* {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: small;
+#nav-bar{
+    background-color: rgb(3, 121, 111);
+    background: linear-gradient(#096f79,  #0bc7a1ed);
+    height: 75px;
 }
 
-section {
-    border: 1px solid black;
+.navbar-brand {
+    font-size: 36px;
+    color: white;
 }
 
-header {
-    width: 100%;
-    text-align: center;
+#search-bar{
+    align-items: center;
 }
 
-#today-img {
-    width: 100px;
-    height: 100px;
-}
-
-.forecast-img {
-    width: 50px;
-    height: 50px;
-}
-
-.top-line {
-    width: 48%;
-    display: inline-block;
-    position: relative;
-}
-
-.bottom-line {
-    width: 19%;
-    display: inline-block;
-    position: relative;
-}
-
-#uv-element-0, #uv-element-1, #uv-element-2 {
-    background-color: lightgreen;
-}
-
-#uv-element-3, #uv-element-4, #uv-element-5 {
-    background-color: lightsalmon;
-}
-
-#uv-element-6, #uv-element-7 {
-    background-color: palevioletred;
+.card{
+    background: linear-gradient(#096f79,  #0bc7a1ed);
+    margin-bottom: 20px;
+    font-size: 20px;
 }
